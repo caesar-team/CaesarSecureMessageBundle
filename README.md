@@ -1,4 +1,6 @@
 # SecurityMessageBundle
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcaesar-team%2FCaesarSecureMessageBundle.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcaesar-team%2FCaesarSecureMessageBundle?ref=badge_shield)
+
 
 ## Installation
 1. Install component via composer
@@ -42,3 +44,7 @@ POST /message with
 ```
 ####Get message
 GET /message/{id} 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcaesar-team%2FCaesarSecureMessageBundle.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcaesar-team%2FCaesarSecureMessageBundle?ref=badge_large)
